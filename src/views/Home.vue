@@ -233,7 +233,7 @@ export default {
   data() {
     return {
       aboutText:
-        "Hello, my name is Chance Bentulan",
+        "Hi, I am Chance Bentulan. I'm an aspiring full stack developer currently a graduating student from University of San Carlos taking up computer engineering. I love to sing and play instruments, I can't imagine life without music. I also like anime, sitcoms and classic movies. I also play video games on my free time.",
     };
   },
 };
